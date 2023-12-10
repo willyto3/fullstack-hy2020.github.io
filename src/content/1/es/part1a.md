@@ -382,7 +382,7 @@ Yo realmente espero que tu consola esté abierta. Si no es asi, recuerda tu prom
 
 > <i>Prometo dejar la consola abierta todo el tiempo</i> durante este curso, y por el resto de mi vida mientras esté haciendo desarrollo web.
 
-EL desarrollo de software es dificil. Este se vuelve aun más dificil si uno no está usando todas las herramientas disponibles como la consola de desarrollo e imprimiendo la depuración con _console.log_. Los profesionales usan amnas <i>todo el tiempo</i> y no hay una sola razón de porque un principiante no debería adoptar estos maravillosos métodos de ayuda que hacen la vida más fácil.
+El desarrollo de software es dificil. Este se vuelve aun más dificil si uno no está usando todas las herramientas disponibles como la consola de desarrollo e imprimiendo la depuración con _console.log_. Los profesionales usan ambas <i>todo el tiempo</i> y no hay una sola razón de porque un principiante no debería adoptar estos maravillosos métodos de ayuda que hacen la vida más fácil.
 
 ### Posible mensaje de error
 
