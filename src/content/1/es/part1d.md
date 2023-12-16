@@ -715,7 +715,7 @@ const App = () => {
 }
 ```
 
-La variable _handleClick_ ahora está asignada a una referencia de de una función. La referencia se pasa al botón como el atributo <i>onClick</i>:
+La variable _handleClick_ ahora está asignada a una referencia de una función. La referencia se pasa al botón como el atributo <i>onClick</i>:
 
 ```js
 <button onClick={handleClick}>button</button>
